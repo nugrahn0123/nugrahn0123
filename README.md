@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/nugrahn0123/nugrahn0123/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/nugrahn0123/nugrahn0123/snake-output/snake.svg?v=2" alt="Snake animation" />
 
 ###
