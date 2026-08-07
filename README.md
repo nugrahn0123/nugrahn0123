@@ -1,4 +1,23 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Anugrah and I'm a Student from Universitas Muhammadiyah Makassar</h2>
+<h2 data-importer="text" align="left">Hi 👋! I'm Anugrah, a Freelance Web Developer helping businesses build professional websites</h2>
+
+<p align="left">
+  Saya adalah freelancer jasa pembuatan website yang membantu UMKM, personal brand, dan bisnis lokal
+  membangun website yang profesional, cepat, dan mudah digunakan.
+</p>
+
+<p align="left">
+  <strong>Professional Summary</strong><br/>
+  Fokus pada hasil: website yang tampil meyakinkan, mobile-friendly, dan siap dipakai untuk promosi
+  maupun kebutuhan operasional bisnis.
+</p>
+
+<p align="left">
+  <strong>Current Focus</strong><br/>
+  - Company Profile Website<br/>
+  - Landing Page Produk/Jasa<br/>
+  - Redesign Website agar lebih modern dan responsif<br/>
+  - Maintenance dan update konten website
+</p>
 
 ###
 
@@ -50,3 +69,9 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/nugrahn0123/nugrahn0123/snake-output/snake.svg?v=2" alt="Snake animation" />
 
 ###
+
+<p align="left">
+  <strong>Open to Collaboration</strong><br/>
+  Saat ini saya membuka project freelance untuk pembuatan website dari nol, redesign, maupun perbaikan website existing.
+  Jika kamu butuh website untuk bisnis atau portfolio, silakan hubungi saya melalui kontak di atas.
+</p>
