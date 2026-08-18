@@ -1,4 +1,12 @@
-<h2 data-importer="text" align="left">Hi 👋! I'm Anugrah, a Freelance Web Developer helping businesses build professional websites</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9F4DF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Anugrah!;Freelance+Web+Developer;UMKM+Website+Builder;React+%26+Next.js+Specialist" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nugrahn0123&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+</p>
+
+<h2 align="left">Hi 👋! I'm Anugrah, a Freelance Web Developer helping businesses build professional websites</h2>
 
 <p align="left">
   Saya adalah freelancer jasa pembuatan website yang membantu UMKM, personal brand, dan bisnis lokal
@@ -24,6 +32,10 @@
 <div align="center">
   <img src="https://github-readme-stats-lemon-five.vercel.app/api?username=nugrahn0123&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-lemon-five.vercel.app/api/top-langs/?username=nugrahn0123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=nugrahn0123&theme=dracula&hide_border=false" height="150" alt="streak stats" />
 </div>
 
 ###
@@ -71,6 +83,10 @@
 ###
 
 <br clear="both">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nugrahn0123&theme=dracula&hide_border=false&area=true" alt="activity graph" width="100%" />
+
+###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/nugrahn0123/nugrahn0123/snake-output/snake.svg?v=2" alt="Snake animation" />
 
