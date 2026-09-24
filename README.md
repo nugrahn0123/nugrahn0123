@@ -25,6 +25,13 @@
 </p>
 
 <p align="left">
+  <strong>Prinsip Kerja</strong><br/>
+  - Utamakan kebutuhan bisnis sebelum memilih fitur<br/>
+  - Rancang pengalaman yang nyaman di desktop dan mobile<br/>
+  - Bangun fondasi yang mudah dikembangkan saat bisnis bertumbuh
+</p>
+
+<p align="left">
   <strong>Current Focus</strong><br/>
   - Company Profile Website<br/>
   - Landing Page Produk/Jasa<br/>
