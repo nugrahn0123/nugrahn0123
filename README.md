@@ -55,6 +55,15 @@
   dan pengalaman pengguna yang mendukung tujuan bisnis.
 </p>
 
+<h2 align="left">Alur Proyek</h2>
+
+<p align="left">
+  1. Diskusi kebutuhan dan target website<br/>
+  2. Penyusunan struktur halaman serta arah visual<br/>
+  3. Pengembangan, peninjauan, dan penyempurnaan<br/>
+  4. Serah terima website yang siap digunakan
+</p>
+
 ###
 
 <div align="center">
