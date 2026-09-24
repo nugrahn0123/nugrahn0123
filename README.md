@@ -152,6 +152,15 @@
 
 ###
 
+<h2 align="left">Sebelum Memulai</h2>
+
+<p align="left">
+  Agar diskusi lebih efektif, siapkan gambaran tujuan website, target pengunjung, referensi visual bila ada,
+  serta informasi layanan atau produk yang ingin ditampilkan.
+</p>
+
+###
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/nugrahn0123/nugrahn0123/snake-output/snake.svg?v=2" alt="Snake animation" />
 
 ###
