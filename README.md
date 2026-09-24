@@ -169,4 +169,5 @@
   <strong>Open to Collaboration</strong><br/>
   Saat ini saya membuka project freelance untuk pembuatan website dari nol, redesign, maupun perbaikan website existing.
   Jika kamu butuh website untuk bisnis atau portfolio, silakan hubungi saya melalui kontak di atas.
+  Ceritakan tujuan project-mu, dan kita bisa menyusun solusi yang paling sesuai.
 </p>
