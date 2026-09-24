@@ -48,6 +48,13 @@
   - Perbaikan tampilan dan performa website yang sudah berjalan
 </p>
 
+<h2 align="left">Hasil yang Diharapkan</h2>
+
+<p align="left">
+  Setiap proyek diarahkan untuk menghasilkan halaman yang responsif, struktur konten yang jelas,
+  dan pengalaman pengguna yang mendukung tujuan bisnis.
+</p>
+
 ###
 
 <div align="center">
