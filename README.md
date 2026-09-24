@@ -139,6 +139,11 @@
   </a>
 </div>
 
+<p align="left">
+  Instagram dapat digunakan untuk menghubungi saya, sementara YouTube dan Discord menjadi ruang untuk
+  berbagi serta terhubung dengan komunitas.
+</p>
+
 ###
 
 <br clear="both">
