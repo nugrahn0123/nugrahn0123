@@ -86,6 +86,14 @@
   yang cepat, terstruktur, dan mudah dirawat.
 </p>
 
+<p align="left">
+  <strong>Modul Tambahan</strong><br/>
+  - Formulir kontak dan tombol WhatsApp<br/>
+  - Galeri, katalog layanan, atau daftar produk<br/>
+  - Halaman artikel untuk konten dan optimasi pencarian<br/>
+  - Integrasi peta lokasi serta tautan media sosial
+</p>
+
 ###
 
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
