@@ -81,6 +81,11 @@
   <strong>Tech Stack</strong>
 </p>
 
+<p align="left">
+  Memanfaatkan JavaScript, TypeScript, React, dan teknologi web modern untuk membangun antarmuka
+  yang cepat, terstruktur, dan mudah dirawat.
+</p>
+
 ###
 
 <img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
