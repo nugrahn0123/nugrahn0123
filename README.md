@@ -116,6 +116,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+<h2 align="left">Cocok Untuk</h2>
+
+<p align="left">
+  Bisnis lokal yang ingin hadir secara profesional di internet, pemilik jasa yang membutuhkan landing
+  page berorientasi konversi, dan personal brand yang ingin menampilkan portfolio secara meyakinkan.
+</p>
+
 ###
 
 <div data-importer="socials" align="left">
