@@ -14,6 +14,11 @@
 </p>
 
 <p align="left">
+  Saya menggabungkan desain yang jelas dengan implementasi web yang rapi agar setiap website mudah
+  dipahami pengunjung dan mudah dikelola pemilik bisnis.
+</p>
+
+<p align="left">
   <strong>Professional Summary</strong><br/>
   Fokus pada hasil: website yang tampil meyakinkan, mobile-friendly, dan siap dipakai untuk promosi
   maupun kebutuhan operasional bisnis.
