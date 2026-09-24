@@ -125,6 +125,8 @@
 
 ###
 
+<h2 align="left">Terhubung</h2>
+
 <div data-importer="socials" align="left">
   <a href="https://youtube.com/@anugrahnugrah8174?si=q6TyWUbU_45rj7B8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
