@@ -6,63 +6,32 @@
   <img src="https://komarev.com/ghpvc/?username=nugrahn0123&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
 </p>
 
-<h2 align="left">Hi 👋! I'm Anugrah, a Freelance Web Developer helping businesses build professional websites</h2>
+<h2 align="center">Anugrah | Freelance Web Developer</h2>
 
-<p align="left">
-  Saya adalah freelancer jasa pembuatan website yang membantu UMKM, personal brand, dan bisnis lokal
-  membangun website yang profesional, cepat, dan mudah digunakan.
+<p align="center">
+  Website cepat dan profesional untuk UMKM, bisnis lokal, serta personal brand.
 </p>
 
-<p align="left">
-  Saya menggabungkan desain yang jelas dengan implementasi web yang rapi agar setiap website mudah
-  dipahami pengunjung dan mudah dikelola pemilik bisnis.
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="responsive" />
+  <img src="https://img.shields.io/badge/Clean_UI-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="clean UI" />
+  <img src="https://img.shields.io/badge/Business--ready-F97316?style=for-the-badge&logo=lightning&logoColor=white" alt="business ready" />
 </p>
 
-<p align="left">
-  <strong>Professional Summary</strong><br/>
-  Fokus pada hasil: website yang tampil meyakinkan, mobile-friendly, dan siap dipakai untuk promosi
-  maupun kebutuhan operasional bisnis.
-</p>
+<h2 align="center">Project Modules</h2>
 
-<p align="left">
-  <strong>Prinsip Kerja</strong><br/>
-  - Utamakan kebutuhan bisnis sebelum memilih fitur<br/>
-  - Rancang pengalaman yang nyaman di desktop dan mobile<br/>
-  - Bangun fondasi yang mudah dikembangkan saat bisnis bertumbuh
-</p>
-
-<p align="left">
-  <strong>Current Focus</strong><br/>
-  - Company Profile Website<br/>
-  - Landing Page Produk/Jasa<br/>
-  - Redesign Website agar lebih modern dan responsif<br/>
-  - Maintenance dan update konten website
-</p>
-
-<h2 align="left">Layanan</h2>
-
-<p align="left">
-  - Website company profile untuk membangun kepercayaan<br/>
-  - Landing page untuk kampanye, produk, atau jasa<br/>
-  - Portfolio personal yang menampilkan karya dengan rapi<br/>
-  - Perbaikan tampilan dan performa website yang sudah berjalan
-</p>
-
-<h2 align="left">Hasil yang Diharapkan</h2>
-
-<p align="left">
-  Setiap proyek diarahkan untuk menghasilkan halaman yang responsif, struktur konten yang jelas,
-  dan pengalaman pengguna yang mendukung tujuan bisnis.
-</p>
-
-<h2 align="left">Alur Proyek</h2>
-
-<p align="left">
-  1. Diskusi kebutuhan dan target website<br/>
-  2. Penyusunan struktur halaman serta arah visual<br/>
-  3. Pengembangan, peninjauan, dan penyempurnaan<br/>
-  4. Serah terima website yang siap digunakan
-</p>
+<table align="center">
+  <tr>
+    <td width="33%" align="center"><strong>01 / Identity</strong><br/>Company profile<br/>Portfolio</td>
+    <td width="33%" align="center"><strong>02 / Conversion</strong><br/>Landing page<br/>Product showcase</td>
+    <td width="33%" align="center"><strong>03 / Growth</strong><br/>Redesign<br/>Maintenance</td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><strong>04 / Contact</strong><br/>Form & WhatsApp<br/>Maps & social links</td>
+    <td width="33%" align="center"><strong>05 / Content</strong><br/>Article page<br/>Service catalog</td>
+    <td width="33%" align="center"><strong>06 / Delivery</strong><br/>Brief -> Build<br/>Review -> Launch</td>
+  </tr>
+</table>
 
 ###
 
@@ -82,16 +51,7 @@
 </p>
 
 <p align="left">
-  Memanfaatkan JavaScript, TypeScript, React, dan teknologi web modern untuk membangun antarmuka
-  yang cepat, terstruktur, dan mudah dirawat.
-</p>
-
-<p align="left">
-  <strong>Modul Tambahan</strong><br/>
-  - Formulir kontak dan tombol WhatsApp<br/>
-  - Galeri, katalog layanan, atau daftar produk<br/>
-  - Halaman artikel untuk konten dan optimasi pencarian<br/>
-  - Integrasi peta lokasi serta tautan media sosial
+  JavaScript, TypeScript, React, dan web platform modern.
 </p>
 
 ###
@@ -119,8 +79,7 @@
 <h2 align="left">Cocok Untuk</h2>
 
 <p align="left">
-  Bisnis lokal yang ingin hadir secara profesional di internet, pemilik jasa yang membutuhkan landing
-  page berorientasi konversi, dan personal brand yang ingin menampilkan portfolio secara meyakinkan.
+  Bisnis lokal, pemilik jasa, dan personal brand.
 </p>
 
 ###
@@ -140,8 +99,7 @@
 </div>
 
 <p align="left">
-  Instagram dapat digunakan untuk menghubungi saya, sementara YouTube dan Discord menjadi ruang untuk
-  berbagi serta terhubung dengan komunitas.
+  Instagram untuk kontak, YouTube dan Discord untuk berbagi.
 </p>
 
 ###
@@ -155,8 +113,7 @@
 <h2 align="left">Sebelum Memulai</h2>
 
 <p align="left">
-  Agar diskusi lebih efektif, siapkan gambaran tujuan website, target pengunjung, referensi visual bila ada,
-  serta informasi layanan atau produk yang ingin ditampilkan.
+  Siapkan tujuan, target pengunjung, konten, dan referensi visual.
 </p>
 
 ###
@@ -167,7 +124,5 @@
 
 <p align="left">
   <strong>Open to Collaboration</strong><br/>
-  Saat ini saya membuka project freelance untuk pembuatan website dari nol, redesign, maupun perbaikan website existing.
-  Jika kamu butuh website untuk bisnis atau portfolio, silakan hubungi saya melalui kontak di atas.
-  Ceritakan tujuan project-mu, dan kita bisa menyusun solusi yang paling sesuai.
+  Punya ide website? Hubungi saya melalui kontak di atas.
 </p>
