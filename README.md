@@ -9,29 +9,38 @@
 <h2 align="center">Anugrah | Freelance Web Developer</h2>
 
 <p align="center">
-  Website cepat dan profesional untuk UMKM, bisnis lokal, serta personal brand.
+  Building clean, purposeful websites for local businesses and personal brands.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Responsive-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="responsive" />
-  <img src="https://img.shields.io/badge/Clean_UI-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="clean UI" />
-  <img src="https://img.shields.io/badge/Business--ready-F97316?style=for-the-badge&logo=lightning&logoColor=white" alt="business ready" />
+  <img src="https://img.shields.io/badge/RESPONSIVE-2EA44F?style=flat-square" alt="responsive" />
+  <img src="https://img.shields.io/badge/CLEAN%20UI-0969DA?style=flat-square" alt="clean UI" />
+  <img src="https://img.shields.io/badge/BUSINESS%20READY-8250DF?style=flat-square" alt="business ready" />
 </p>
 
-<h2 align="center">Project Modules</h2>
+<br/>
 
-<table align="center">
-  <tr>
-    <td width="33%" align="center"><strong>01 / Identity</strong><br/>Company profile<br/>Portfolio</td>
-    <td width="33%" align="center"><strong>02 / Conversion</strong><br/>Landing page<br/>Product showcase</td>
-    <td width="33%" align="center"><strong>03 / Growth</strong><br/>Redesign<br/>Maintenance</td>
-  </tr>
-  <tr>
-    <td width="33%" align="center"><strong>04 / Contact</strong><br/>Form & WhatsApp<br/>Maps & social links</td>
-    <td width="33%" align="center"><strong>05 / Content</strong><br/>Article page<br/>Service catalog</td>
-    <td width="33%" align="center"><strong>06 / Delivery</strong><br/>Brief -> Build<br/>Review -> Launch</td>
-  </tr>
-</table>
+<h3 align="center">What I Build</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Company_Profile-171B22?style=for-the-badge&logo=googlechrome&logoColor=white" alt="company profile" />
+  <img src="https://img.shields.io/badge/Landing_Page-171B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="landing page" />
+  <img src="https://img.shields.io/badge/Personal_Portfolio-171B22?style=for-the-badge&logo=github&logoColor=white" alt="personal portfolio" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redesign-171B22?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="redesign" />
+  <img src="https://img.shields.io/badge/Maintenance-171B22?style=for-the-badge&logo=git&logoColor=F05032" alt="maintenance" />
+</p>
+
+<h3 align="center">How We Work</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01_DISCOVER-1F6FEB?style=for-the-badge" alt="discover" />
+  <img src="https://img.shields.io/badge/02_DESIGN-8250DF?style=for-the-badge" alt="design" />
+  <img src="https://img.shields.io/badge/03_BUILD-1A7F37?style=for-the-badge" alt="build" />
+  <img src="https://img.shields.io/badge/04_LAUNCH-9A6700?style=for-the-badge" alt="launch" />
+</p>
 
 ###
 
