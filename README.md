@@ -39,6 +39,15 @@
   - Maintenance dan update konten website
 </p>
 
+<h2 align="left">Layanan</h2>
+
+<p align="left">
+  - Website company profile untuk membangun kepercayaan<br/>
+  - Landing page untuk kampanye, produk, atau jasa<br/>
+  - Portfolio personal yang menampilkan karya dengan rapi<br/>
+  - Perbaikan tampilan dan performa website yang sudah berjalan
+</p>
+
 ###
 
 <div align="center">
