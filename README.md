@@ -17,19 +17,19 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="56" alt="Company Profile" /><br /><br />
+      <img src="https://img.icons8.com/fluency/96/organization.png" width="64" alt="Company Profile" /><br /><br />
       <img src="https://img.shields.io/badge/Company%20Profile-1e3a8a?style=for-the-badge" alt="Company Profile" />
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=react" width="56" alt="Landing Page" /><br /><br />
+      <img src="https://img.icons8.com/fluency/96/rocket.png" width="64" alt="Landing Page" /><br /><br />
       <img src="https://img.shields.io/badge/Landing%20Page-0e7490?style=for-the-badge" alt="Landing Page" />
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=figma" width="56" alt="Portfolio" /><br /><br />
+      <img src="https://img.icons8.com/fluency/96/portfolio.png" width="64" alt="Portfolio" /><br /><br />
       <img src="https://img.shields.io/badge/Personal%20Portfolio-7c3aed?style=for-the-badge" alt="Personal Portfolio" />
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=git" width="56" alt="Redesign" /><br /><br />
+      <img src="https://img.icons8.com/fluency/96/maintenance.png" width="64" alt="Redesign" /><br /><br />
       <img src="https://img.shields.io/badge/Redesign%20%26%20Maintenance-be123c?style=for-the-badge" alt="Redesign dan Maintenance" />
     </td>
   </tr>
