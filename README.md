@@ -67,7 +67,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nugrahn0123&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=e2e8f0&line=06b6d4&point=ffffff&area=true&area_color=1e3a8a" width="100%" alt="Grafik kontribusi" />
+  <img src="https://streak-stats.demolab.com?user=nugrahn0123&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&locale=id" alt="Streak kontribusi" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/06b6d4/nugrahn0123" width="100%" alt="Grafik kontribusi" />
 </p>
 
 <br />
