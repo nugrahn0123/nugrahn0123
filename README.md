@@ -65,6 +65,10 @@
   <img src="https://img.shields.io/badge/04-Luncurkan-0f172a?style=for-the-badge&labelColor=06b6d4" alt="Luncurkan" />
 </p>
 
+<p align="center">
+  <sub>Setiap tahap dikomunikasikan secara transparan, dengan revisi dan progres yang jelas.</sub>
+</p>
+
 <br />
 
 <h2 align="center">Tech Stack</h2>
