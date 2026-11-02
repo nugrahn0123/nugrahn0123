@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+  Saya membantu bisnis lokal dan personal brand tampil profesional di internet<br />
+  melalui website yang cepat, responsif, dan mudah dikelola.
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/nugrahn24/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://youtube.com/@anugrahnugrah8174"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://discord.com/users/1195181303021174818"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
