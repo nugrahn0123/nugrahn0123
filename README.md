@@ -108,6 +108,8 @@
 
 <br />
 
+<h2 align="center">Hubungi Saya</h2>
+
 <p align="center">
   <a href="https://www.instagram.com/nugrahn24/">
     <img src="https://img.shields.io/badge/Punya%20ide%20website%3F%20Mari%20bicarakan-06b6d4?style=for-the-badge&logo=instagram&logoColor=0f172a" alt="Hubungi via Instagram" />
