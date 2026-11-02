@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Menerima%20Proyek%20Baru-22c55e?style=flat-square" alt="Status: Menerima proyek baru" />
   <img src="https://img.shields.io/badge/Lokasi-Indonesia%20(WIB)-1e3a8a?style=flat-square" alt="Lokasi: Indonesia (WIB)" />
+  <img src="https://komarev.com/ghpvc/?username=nugrahn0123&label=Profile%20Views&color=06b6d4&style=flat-square" alt="Jumlah kunjungan profil" />
 </p>
 
 <p align="center">
