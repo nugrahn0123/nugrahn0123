@@ -71,6 +71,17 @@
 
 <br />
 
+<h2 align="center">Kenapa Bekerja dengan Saya</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desain%20Responsif-0f172a?style=flat-square&logo=googlechrome&logoColor=06b6d4" alt="Desain responsif" />
+  <img src="https://img.shields.io/badge/Performa%20Cepat-0f172a?style=flat-square&logo=lighthouse&logoColor=06b6d4" alt="Performa cepat" />
+  <img src="https://img.shields.io/badge/SEO%20Friendly-0f172a?style=flat-square&logo=google&logoColor=06b6d4" alt="SEO friendly" />
+  <img src="https://img.shields.io/badge/Komunikasi%20Jelas-0f172a?style=flat-square&logo=whatsapp&logoColor=06b6d4" alt="Komunikasi jelas" />
+</p>
+
+<br />
+
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
