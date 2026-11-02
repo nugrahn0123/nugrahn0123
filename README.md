@@ -1,4 +1,6 @@
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Anugrah&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Web%20Developer&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="Anugrah — Freelance Web Developer" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Website+untuk+bisnis+lokal+%26+personal+brand;Company+Profile+%E2%80%A2+Landing+Page+%E2%80%A2+Portfolio;Responsif+%E2%80%A2+Cepat+%E2%80%A2+Siap+dikembangkan" alt="Typing animation" /></a>
