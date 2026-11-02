@@ -93,7 +93,7 @@
 <h2 align="center">Statistik GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-lemon-five.vercel.app/api?username=nugrahn0123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&text_color=e2e8f0&rank_icon=github" height="170" alt="Statistik GitHub Anugrah" />
+  <img src="https://github-readme-stats-lemon-five.vercel.app/api?username=nugrahn0123&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&text_color=e2e8f0&rank_icon=github" height="170" alt="Statistik GitHub Anugrah" />
   <img src="https://github-readme-stats-lemon-five.vercel.app/api/top-langs/?username=nugrahn0123&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=e2e8f0" height="170" alt="Bahasa pemrograman teratas" />
 </p>
 
