@@ -12,6 +12,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Menerima%20Proyek%20Baru-22c55e?style=flat-square" alt="Status: Menerima proyek baru" />
+  <img src="https://img.shields.io/badge/Lokasi-Indonesia%20(WIB)-1e3a8a?style=flat-square" alt="Lokasi: Indonesia (WIB)" />
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/nugrahn24/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://youtube.com/@anugrahnugrah8174"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://discord.com/users/1195181303021174818"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
