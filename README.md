@@ -120,4 +120,8 @@
   <sub>Konsultasi awal gratis &middot; Respons dalam 1&times;24 jam</sub>
 </p>
 
+<p align="center">
+  <sub><i>"Website yang baik bukan sekadar tampil menarik, tetapi juga bekerja untuk bisnis Anda."</i></sub>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="" />
